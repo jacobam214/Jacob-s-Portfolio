@@ -1,0 +1,107 @@
+
+
+.navbar{
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+#resume-title{
+    font-family: 'Rufina', serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+#hero{
+    padding-top: 40px!important;
+    padding-bottom: 0px!important;
+}
+    
+
+body{
+    font-family: 'Outfit', sans-serif;
+    color: #545454;
+    background-color: #EEEEEE;
+}
+
+.container{
+    background-color: #EEEEEE;
+} 
+
+h1{
+    font-family: 'Rufina', serif;
+}
+
+h2{
+    font-family: 'Rufina', serif;
+    color:black;
+}
+
+h3{
+    font-family: 'Rufina', serif;
+    color:black;
+}
+
+
+.btn-primary{
+    background-color: #F15412;
+    color: #EEEEEE;
+    border-color: #545454;
+    border-radius: 30px;
+    box-shadow: 2px 2px;
+
+}
+
+.btn-primary:hover{
+    transform: translate(-4px, -4px);
+    box-shadow: 6px 6px black;
+    color: #fff;
+    background-color: #ff6929;
+     /*set the color you want here*/
+}
+
+
+.feature-icon{
+    background-color: #34B3F1;
+    border-radius: 25%;
+    border: 2px solid;
+    border-color: #545454;
+    box-shadow: 2px 2px;
+}
+
+.bi{
+    fill: #EEEEEE;
+}
+
+.icon-link{
+    color: #F15412;
+    text-decoration-color: #F15412;
+}
+
+.featurette{
+    align-items: center;
+}
+
+.featurette-image{
+    border: 2px solid;
+    border-radius: 10%;
+    box-shadow: 2px 2px;
+}
+
+.slide{
+    border: 5px solid #34B3F1;
+    
+}
+
+.carousel-caption{
+    color: black;
+    background-color: #F15412;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px;
+}
+
+#plane{
+    justify-content: end;
+    fill:#545454
+}
